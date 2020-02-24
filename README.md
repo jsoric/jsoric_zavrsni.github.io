@@ -10,7 +10,8 @@ Infinitiy travel agency
 - **--** Na Putuj s nama stranici je forma za registraciju putnika.
 - **--** Na Subscribe stranici je forma za pretplatu na obavijesti.
 
-**Podatci unešeni na Putuj s nama stranici se spremaju na sqlite bazu subscribe.db.**
+**Podatci unešeni na Putuj s nama stranici se spremaju na sqlite bazu subscribe.db i kasnije služe za kontakt s putnikom 
+  putem e-maila.**
 
 **Podatci unešeni za pretplatu na Subscribe stranici se spremaju na sqlite bazu subscribe.db.**
 
