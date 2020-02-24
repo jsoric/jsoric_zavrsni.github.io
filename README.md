@@ -4,13 +4,12 @@ Flask blog
 Infinitiy travel agency
 
 - **--** Sastoji se od pet stranica
-- **--** Na Početnoj stranici se stavljaju blogovi s njihovim sadržajem.
+- **--** Na Početnoj stranici su lokacije na koje agencija vrši putovanja.
 - **--** Na O Nama stranici je kratak opis naše tvrtke.
 - **--** Na Galerija stranici su slike sa putovanja.
-- **--** Na Prijava stranici je forma za prijavu korisnika.
-- **--** Na Registracija stranici je forma za registraciju korisnika.
+- **--** Na Putuj s nama stranici je forma za registraciju putnika.
 - **--** Na Subscribe stranici je forma za pretplatu na obavijesti.
-
+**Podatci unešeni na Putuj s nama stranici se spremaju na sqlite bazu subscribe.db.**
 **Podatci unešeni za pretplatu na Subscribe stranici se spremaju na sqlite bazu subscribe.db.**
 
 Upute za instalaciju za windows korisnike
