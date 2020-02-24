@@ -1,16 +1,29 @@
   
 {% extends "layout.html" %}
 {% block content %}
-    {% for post in posts %}
+ 
         <article class="media content-section">
           <div class="media-body">
-            <div class="article-metadata">
-              <a class="mr-2" href="#">{{ post.author }}</a>
-              <small class="text-muted">{{ post.date_posted }}</small>
-            </div>
-            <h2><a class="article-title" href="#">{{ post.title }}</a></h2>
-            <p class="article-content">{{ post.content }}</p>
+            <h2><a class="article-title" href="https://en.wikipedia.org/wiki/Caribbean">Caribbean Cruises</a></h2>
+            <p class="article-content">With an island for every taste, the Caribbean is the ultimate place for relaxation. You ll find white sands and turquoise water throughout the Caribbean Sea and Gulf of Mexico.</p>
           </div>
         </article>
-    {% endfor %}
+        <article class="media content-section">
+          <div class="media-body">
+            <h2><a class="article-title" href="https://en.wikipedia.org/wiki/Eastern_Mediterranean">Eastern Mediterranean</a></h2>
+            <p class="article-content">If you re a fan of art and antiquities, a cruise to the Eastern Mediterranean is right up your alley. With itineraries that include the Adriatic/Dalmation Coast, Black Sea, Greek Isles and Holy Land, the region is a treasure trove for history lovers.</p>
+          </div>
+        </article>
+        <article class="media content-section">
+          <div class="media-body">
+            <h2><a class="article-title" href="https://en.wikipedia.org/wiki/Europe">Europe</a></h2>
+            <p class="article-content">Your biggest difficulty planning a European cruise is narrowing down where you want to go. A Western Mediterranean itinerary usually includes stops in Barcelona and Monaco, as well as ports in Italy'</p>
+          </div>
+        </article>
+        <article class="media content-section">
+          <div class="media-body">
+            <h2><a class="article-title" href="https://en.wikipedia.org/wiki/Alaska">Alaska</a></h2>
+            <p class="article-content">The 49th State, the largest in the U.S., is perfect for cruisers, with numerous opportunities to appreciate its vast natural beauty.</p>
+          </div>
+        </article>
 {% endblock content %}

@@ -9,16 +9,16 @@ body {
   }
   
   .bg-steel {
-    background-color: #627471;
+    background-color: #0a0a09;
     height: 60px;
   }
   
   .site-header .navbar-nav .nav-link {
-    color: #cbd5db;
+    color: #d8d8d6;
   }
   
   .site-header .navbar-nav .nav-link:hover {
-    color: #ffe8cb;
+    color: #d2eaf8;
   }
   
   .site-header .navbar-nav .nav-link.active {
