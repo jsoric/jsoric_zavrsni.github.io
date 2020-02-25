@@ -1,14 +1,18 @@
 # jsoric.github.io
 Flask blog
 
-Infinitiy travel agency
+Infinity travel agency je agencija za putovanja koja na Pocetnoj stranici prikazuje trenutne ponude sa cijenom, vrstom prijevoza i lokacijom na koje vršimo rezervacije. 
+
+Popunjavanjem forme iz Putuj s nama stranice ++na našu bazu dolaze vaši podatci s kojim vas stavljamo na popis putnika i preko emaila obavjestavamo o daljnim uputama.
+
+Popunjavanjem forme pretplati se dopuštate nam slanje najnovijih obavijesti o putovanjima.
 
 - **--** Sastoji se od pet stranica
-- **--** Na Početnoj stranici su lokacije na koje agencija vrši putovanja.
+- **--** Na Početnoj stranici su lokacije na koje agencija vrši putovanja, sa slikama, cijenom i kratkim opisom.
 - **--** Na O Nama stranici je kratak opis naše tvrtke.
 - **--** Na Galerija stranici su slike sa putovanja.
 - **--** Na Putuj s nama stranici je forma za registraciju putnika.
-- **--** Na Subscribe stranici je forma za pretplatu na obavijesti.
+- **--** Na Preplati se stranici je forma za pretplatu na obavijesti.
 
 **Podatci unešeni na Putuj s nama stranici se spremaju na sqlite bazu subscribe.db i kasnije služe za kontakt s putnikom 
   putem e-maila.**
