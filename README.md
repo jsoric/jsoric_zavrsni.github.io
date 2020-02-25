@@ -1,5 +1,4 @@
 # jsoric.github.io
-Flask blog
 
 Infinity travel agency je agencija za putovanja koja na **Pocetnoj stranici** prikazuje trenutne ponude sa cijenom, vrstom prijevoza i lokacijom na koje vršimo rezervacije. 
 
