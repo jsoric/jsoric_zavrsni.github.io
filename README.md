@@ -1,6 +1,6 @@
 # jsoric.github.io
 
-Infinity travel agency je agencija za putovanja koja na **Pocetnoj stranici** prikazuje trenutne ponude sa cijenom, vrstom prijevoza i lokacijom na koje vršimo rezervacije. 
+Infinity travel agency je agencija za putovanja koja na **Pocetnoj stranici** prikazuje trenutne ponude sa cijenom, vrstom prijevoza i lokacijom na koje vršimo rezervacije putovanja. 
 
 Popunjavanjem forme iz **Putuj s nama** stranice na našu bazu dolaze vaši podatci s kojim vas stavljamo na popis putnika i preko emaila obavjestavamo o daljnim uputama.
 
